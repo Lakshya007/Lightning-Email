@@ -2,8 +2,8 @@
 <!-- Created by: 	OpFocus(Veena Sundara-Heragu) on 7/3/18 -->
 <!-- Description: 	 -->
 <aura:component description="CmpSendEmail"
-                extends="c:CmpBase"
-                implements="c:IntBase,lightning:isUrlAddressable"
+                
+                implements="lightning:isUrlAddressable"
                 access="global"
                 controller="CmpSendEmailCtrl">
 
